@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0b1220"/>
+  <rect x="60" y="60" width="1080" height="680" rx="30" fill="url(#bg)" opacity="0.18"/>
+  <rect x="90" y="110" width="1020" height="560" rx="22" fill="#101827" stroke="#364968"/>
+  <rect x="140" y="150" width="560" height="330" rx="18" fill="#0b1220" stroke="#384d69"/>
+  <rect x="170" y="180" width="500" height="28" rx="14" fill="#1d273c"/>
+  <circle cx="206" cy="194" r="8" fill="#ff5f56"/>
+  <circle cx="238" cy="194" r="8" fill="#ffbd2e"/>
+  <circle cx="270" cy="194" r="8" fill="#27c93f"/>
+  <rect x="210" y="258" width="180" height="16" rx="8" fill="#6c63ff"/>
+  <rect x="210" y="292" width="220" height="16" rx="8" fill="#00c2ff"/>
+  <rect x="210" y="326" width="190" height="16" rx="8" fill="#a5b4fc"/>
+  <rect x="210" y="360" width="260" height="16" rx="8" fill="#93c5fd"/>
+  <rect x="760" y="182" width="260" height="170" rx="18" fill="#0b1220" stroke="#384d69"/>
+  <rect x="790" y="214" width="190" height="14" rx="7" fill="#8b5cf6"/>
+  <rect x="790" y="246" width="180" height="14" rx="7" fill="#00c2ff"/>
+  <rect x="790" y="278" width="160" height="14" rx="7" fill="#93c5fd"/>
+  <rect x="760" y="400" width="260" height="170" rx="18" fill="#0b1220" stroke="#384d69"/>
+  <rect x="790" y="432" width="180" height="14" rx="7" fill="#6c63ff"/>
+  <rect x="790" y="464" width="170" height="14" rx="7" fill="#00c2ff"/>
+  <rect x="790" y="496" width="155" height="14" rx="7" fill="#a5b4fc"/>
+  <text x="120" y="644" font-size="54" font-family="Arial, sans-serif" fill="white" font-weight="700">Business Website</text>
+</svg>

@@ -1,0 +1,38 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Desktop coding profile</title>
+  <desc id="desc">A desktop coding workspace profile illustration with monitor, code interface and workspace setup.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="725" cy="180" r="130" fill="#00c2ff" opacity="0.12"/>
+  <rect x="120" y="120" width="660" height="760" rx="32" fill="#101827" stroke="#364968" stroke-width="3"/>
+  <rect x="180" y="180" width="540" height="470" rx="20" fill="#0b1220" stroke="#3a496b"/>
+  <rect x="214" y="216" width="470" height="26" rx="13" fill="#1d273c"/>
+  <circle cx="246" cy="229" r="7" fill="#ff5f56"/>
+  <circle cx="274" cy="229" r="7" fill="#ffbd2e"/>
+  <circle cx="302" cy="229" r="7" fill="#27c93f"/>
+  <rect x="240" y="288" width="150" height="16" rx="8" fill="#6c63ff" opacity="0.9"/>
+  <rect x="240" y="322" width="195" height="16" rx="8" fill="#00c2ff" opacity="0.9"/>
+  <rect x="240" y="356" width="170" height="16" rx="8" fill="#93c5fd" opacity="0.9"/>
+  <rect x="240" y="420" width="220" height="12" rx="6" fill="#dbeafe" opacity="0.75"/>
+  <rect x="240" y="446" width="186" height="12" rx="6" fill="#dbeafe" opacity="0.6"/>
+  <rect x="448" y="286" width="188" height="120" rx="16" fill="#172033" stroke="#2b3b58"/>
+  <rect x="470" y="312" width="110" height="12" rx="6" fill="#8b5cf6" opacity="0.9"/>
+  <rect x="470" y="338" width="132" height="12" rx="6" fill="#00c2ff" opacity="0.8"/>
+  <rect x="470" y="364" width="120" height="12" rx="6" fill="#a5b4fc" opacity="0.8"/>
+  <rect x="208" y="700" width="520" height="100" rx="18" fill="#111827" stroke="#2d3a52"/>
+  <rect x="236" y="732" width="135" height="16" rx="8" fill="#6c63ff" opacity="0.9"/>
+  <rect x="392" y="732" width="170" height="16" rx="8" fill="#00c2ff" opacity="0.9"/>
+  <rect x="586" y="732" width="108" height="16" rx="8" fill="#93c5fd" opacity="0.9"/>
+  <rect x="228" y="836" width="440" height="18" rx="9" fill="#1f2937"/>
+  <text x="452" y="630" text-anchor="middle" font-size="48" font-family="Arial, sans-serif" font-weight="800" fill="#ffffff">AL AMIN</text>
+  <text x="452" y="675" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#9fc0ff">WEB DESIGNER &amp; DEVELOPER</text>
+</svg>

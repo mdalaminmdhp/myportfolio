@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0b1220"/>
+  <rect x="60" y="60" width="1080" height="680" rx="30" fill="url(#bg)" opacity="0.18"/>
+  <rect x="100" y="100" width="1000" height="600" rx="28" fill="#101827" stroke="#2d4d47"/>
+  <rect x="150" y="145" width="520" height="360" rx="18" fill="#0b1220" stroke="#2d4d47"/>
+  <rect x="180" y="175" width="460" height="22" rx="11" fill="#1d273c"/>
+  <circle cx="214" cy="186" r="8" fill="#ff5f56"/>
+  <circle cx="246" cy="186" r="8" fill="#ffbd2e"/>
+  <circle cx="278" cy="186" r="8" fill="#27c93f"/>
+  <rect x="220" y="252" width="180" height="18" rx="9" fill="#22c55e"/>
+  <rect x="220" y="286" width="230" height="18" rx="9" fill="#34d399"/>
+  <rect x="220" y="320" width="200" height="18" rx="9" fill="#86efac"/>
+  <rect x="220" y="354" width="175" height="18" rx="9" fill="#dcfce7"/>
+  <rect x="760" y="170" width="250" height="150" rx="18" fill="#0b1220" stroke="#2d4d47"/>
+  <rect x="792" y="210" width="180" height="16" rx="8" fill="#22c55e"/>
+  <rect x="792" y="240" width="165" height="16" rx="8" fill="#34d399"/>
+  <rect x="760" y="360" width="250" height="170" rx="18" fill="#0b1220" stroke="#2d4d47"/>
+  <rect x="790" y="398" width="180" height="16" rx="8" fill="#22c55e"/>
+  <rect x="790" y="430" width="170" height="16" rx="8" fill="#86efac"/>
+  <rect x="790" y="462" width="145" height="16" rx="8" fill="#dcfce7"/>
+  <text x="120" y="640" font-size="54" font-family="Arial, sans-serif" fill="white" font-weight="700">PHP App</text>
+</svg>
